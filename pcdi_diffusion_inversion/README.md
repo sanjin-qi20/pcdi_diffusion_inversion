@@ -1,7 +1,6 @@
 # PCDI Diffusion Inversion
 
-This project is a compact implementation of the paper algorithm in
-`Physics-Constrained Joint Seismic Inversion via the Adjoint-State Method and Diffusion Models polished copy back.md`.
+This project is a compact implementation of the paper algorithm in Adjoint-Guided Physics-Constrained Diffusion Sampling for Post-Stack Convolutional Impedance Inversion
 It trains a conditional diffusion prior from noiseless Marmousi2 and Overthrust triplets:
 seismic data, low-frequency model, and true model.
 
