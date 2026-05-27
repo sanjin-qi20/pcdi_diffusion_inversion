@@ -49,7 +49,7 @@ Before formal training, set the key variables in `pcdi/config.py`:
 ```python
 RUN_MODE = "train_predict"
 RUN_NAME = "pcdi_full"
-TRAIN_PATCH_RATIO = 0.70
+TRAIN_PATCH_RATIO = 0.50
 BATCH_SIZE = 48
 PREDICT_DATASETS = ["marmousi", "overthrust"]
 ```
